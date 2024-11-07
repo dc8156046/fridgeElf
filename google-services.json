@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1014497082956",
+    "project_id": "reactnative-fridgeelf",
+    "storage_bucket": "reactnative-fridgeelf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014497082956:android:0c3cfaf7559700c845bee9",
+        "android_client_info": {
+          "package_name": "com.reactnativefridgeelf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014497082956-fsjsni5rard61ui9evolko2ksf5ihllt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClhT5hb5TguAoFnhMxGvnenzbDpnwsL5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014497082956-fsjsni5rard61ui9evolko2ksf5ihllt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014497082956-1s08cv3jh3n94mnlefm8deakgsfe4625.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactnativefridgeelf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
